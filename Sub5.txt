@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9daf70ee-0a48-4331-afa7-2c3124275b46@52.74.209.175:40569?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-52.74.209.175:40569
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:8443?security=tls&sni=folani.iiipok.WoRKERS.deV&type=ws&host=folani.iiipok.WoRKERS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.64:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=jh.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.233:443
-vless://fd3060b6-e604-5ee2-9099-29b91c2403ce@185.146.173.62:443?security=tls&sni=de2.vless.site&type=ws&host=de2.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.62:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.200:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.200:2082
 vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.26.14.16:80?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.14.16:80
 vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@104.24.196.20:443?security=tls&sni=rsfndc6.iraniancpi.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.196.20:443
@@ -603,3 +599,7 @@ vless://5420e86c-1558-4038-8760-088d18796dd5@104.16.11.133:80?security=none&type
 vless://370293a9-3757-4425-bfc0-d487035c26d6@104.19.150.10:2086?security=none&type=httpupgrade&host=https.upgrADe.GooGle.cOm.wWW.speedtESt.nEt.wwW.speEdtest.nEt.octarp.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:2086
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@104.21.59.165:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F@TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880
 vless://aa1df27b-d639-560e-88ba-2ed382cf03b8@185.146.173.42:80?type=ws&host=Pt1.vless.site.&path=%2Fvless#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.42:80
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@185.193.28.244:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇬🇧 GB-185.193.28.244:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.90:2053?security=tls&sni=JOinmahDiServER-ei9.Pages.dEv&type=ws&host=jOinmaHDIseRvEr-ei9.paGES.Dev&path=%2F8yBQ1J5QRyH9geks%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.90:2053
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.50:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.50:443
+vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@66.235.200.111:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.111:8080
