@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2086?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.192:2086
 vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?security=none&type=ws&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.162:8880
 vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@188.164.159.171:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-188.164.159.171:2053
 vless://1778ee6a-bad6-4cb2-862f-e23290d48e68@104.21.10.151:443?security=tls&sni=mahdiserver.xadik34684.workers.dev&type=ws&host=mahdiserver.xadik34684.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.151:443
@@ -602,4 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.196.20:2053?security=tls&sni
 vless://c2afe333-0bc8-4372-8deb-6e1dad954787@199.232.181.103:443?security=tls&sni=a914671dde11f079.www.speedtest.net.ftpp.debian.org.hfdds.hajipro.ir.&type=ws&host=BaZZar.IR&path=%2F%3Fed%3D2560&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇪🇸 ES-199.232.181.103:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.110:443?security=tls&sni=yq.ylka.us.kg&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.110:443
 vless://a04f9404-df20-41fa-9741-9b05659a6e40@92.223.124.27:80?security=none&type=httpupgrade&host=admin.322355.shop&path=%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-92.223.124.27:80
-vless://51d163e2-f5dd-4f8c-b010-a98aba85a401@151.101.129.57:443?security=tls&sni=fastly.com&type=ws&host=join-dailyconfigs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&fp=random&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.129.57:443
