@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://1bf36abe-aa32-41f5-9523-70d713645ba6@172.67.203.189:443?security=tls&sni=sinabigo1.soft10.ir&type=ws&host=sinabigo1.soft10.ir&path=/Channel--SiNABiGO-SiNABiGO-SiNABiGO--LqZwXyhqvlBwEC&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.189:443
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#🔒 TR-TCP-NA 🇸🇬 SG-139.177.189.122:443
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@172.67.73.163:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-172.67.73.163:443
 trojan://15c2491a-01d2-4d36-b4c4-7095682368cd@104.18.185.80:443?security=tls&sni=sublinkhiddifyc1.makingirangreatagain.com&type=splithttp&host=sublinkhiddifyc1.makingirangreatagain.com&path=%2FypSUmDMymGhCkg3TaA1&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.18.185.80:443
 trojan://A98XMiF6NA@38.59.241.39:10000?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🇺🇸 US-38.59.241.39:10000
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.218:6697#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:5001#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5001
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8080
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.141.84:8091#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:8091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMTJ2ZWF1WHJaNHlkMjB6a3p5UjBE@193.17.183.40:32563#🔒 SS-TCP-NA 🇪🇸 ES-193.17.183.40:32563
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24726#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24726
