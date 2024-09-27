@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:5499
 ss://MGZiNTNhNjAtMjM3Mi00MTJhLWE2OTMtNTE1N2I1OGVjYzk0Og==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDRlc5RUlyNnV0TlM1cWhQNGhKenR3@16.170.137.100:8243#🔒 SS-TCP-NA 🇸🇪 SE-16.170.137.100:8243
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.150.152.112:5498#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:5498
@@ -602,4 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.252:2087?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/fp=chromefp=chrome&security=tls#15|EE_speednode_0111
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.8:443?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/Twitterfreecodessecurity=tls#15|EE_speednode_0066
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/Twitterfreecodessecurity=tls#15|EE_speednode_0067
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/fp=chrome&security=tls#15|EE_speednode_0100
