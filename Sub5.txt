@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.14.85:443?security=tls&sni=nufilter.pages.dev&type=ws&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=twitterfreecodestg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.195:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?security=tls&sni=hq.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.21:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.103.0:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.103.0:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.251:8443?security=tls&sni=JOInMahdIServER-Az7.PaGeS.DEv&type=ws&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.251:8443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.57.221:443?security=tls&sni=pPAL03.KaMArAH-ELYNor.WoRKeRS.DEv&type=ws&host=PpaL03.KaMARaH-elYNoR.wORKErs.DeV&path=%2FHot7vSaWr6FjfiCZ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.221:443
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.118:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.118:443
-vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2Ftelegram-proxy_mtm%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.100:2083
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.37:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.37:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.251:443
 vless://1a518b79-35af-4e2d-85b2-f6be628f7802@172.67.208.245:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.208.245:2053
 vless://9c8c5159-e9d2-45db-8dd0-d99e2af0e1a2@104.20.39.242:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.39.242:2053
 vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@104.16.192.0:8880?security=none&type=ws&host=stockcitywild.northernlight.monster&path=%2Fglobalizzer#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.192.0:8880
@@ -603,3 +593,13 @@ vless://881ca2e1-18f5-5420-b702-13a58ec339ff@104.16.16.50:2052?security=none&typ
 vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@104.25.144.171:8880?security=none&type=ws&host=stockcitywild.northernlight.monster&path=%2Fglobalizzer#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.144.171:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.55.125:443?security=tls&sni=WiSPY-SOund-bc2F.1D2B5F86e3.woRkers.DEV&type=ws&host=WisPY-sOunD-Bc2f.1d2b5f86E3.WorkerS.dev&path=%2F2MSDe8HjC7wetG27%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.55.125:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.3.6:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.3.6:80
+vless://97b11ee6-a62a-4e60-839c-de974a155089@185.159.247.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇧🇷 BR-185.159.247.197:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2security#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443
+vless://97b11ee6-a62a-4e60-839c-de974a155089@86.38.214.71:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.71:443
+vless://b7dd3a5a-6b45-5b29-bc74-ec08e81c790c@172.67.161.73:443?security=tls&sni=yf-psv2.kojica8148.worKers.DEv&type=ws&host=yf-psv2.kojica8148.worKers.DEv&path=vless-ws%2F%3Fed%3D8880&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.73:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@158.178.192.221:443?security=tls&sni=xr.ylks.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇫🇷 FR-158.178.192.221:443
+vless://97b11ee6-a62a-4e60-839c-de974a155089@89.116.161.53:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.53:443
+vless://5361a986-91b9-4756-a78c-103261128d83@154.197.108.241:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇸🇨 SC-154.197.108.241:2082
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.20.148:2053?security=tls&sni=FReeALl-fORex-123.wPEZCsXv.woRKErS.deV&type=ws&host=FreEaLl-FOREX-123.wpEZCsxv.WORkers.dev&path=%2FTz99XfItNdMN8XX8%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.177:443
+vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@172.67.154.112:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.112:443
