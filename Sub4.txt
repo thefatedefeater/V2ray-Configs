@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://456a5e05-11d1-43ef-bbbc-ff25fa806f8b@188.114.99.45:80?security=none&type=httpupgrade&host=chanel.vip.gkalabar.IR&path=%2Fmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-188.114.99.45:80
-vless://ec686a1f-6003-4e22-aa61-7d32c631f384@104.22.33.78:80?security=none&type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.122.76:443?security=tls&sni=ht.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-150.230.122.76:443
-vless://0789a06d-a61a-470d-b182-33926b1aa21f@172.66.44.135:443?security=tls&sni=SHAH-5R1.paGes.deV&type=ws&host=shAh-5r1.PAgEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.135:443
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.222:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.222:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.140:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.12.54:443?security=tls&sni=aZADneT-FreEdoM-iRAnIAN1.pAGeS.DEV&type=ws&host=aZADnEt-fReedom-irANIaN1.paGeS.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2Fsecurity#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.5:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.201:443?security=tls&sni=xp.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.201:443
@@ -603,3 +597,9 @@ vless://6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f@172.67.65.180:443?security=tls&sni=
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.44.53:2087?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.53:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:8443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&path=%2Ftelegram.v2ray_alpha.spacefp#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.147.231.33:443?security=tls&sni=jt.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-34.147.231.33:443
+vless://0fc6e6f1-a0d7-4754-88cf-0310e695502f@104.21.3.56:443?security=tls&sni=YUshikVpN-Iran-wWW.lmlVDwc.wOrkErs.Dev&type=ws&host=YusHIkvpn-iraN-wwW.LmLvdwc.WORKERS.DeV&path=%2FaeEV5Zl6c-51bAk4%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.56:443
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.233:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.233:2082
+vless://66b3cbba-e6ac-485a-8781-976a0415eab8@104.21.8.226:443?security=tls&sni=esetSeCurITylicENSe.ZRytZnbE.woRkerS.deV&type=ws&host=EseTsECUriTyliCENsE.ZrYTZnBE.WoRkErS.deV&path=%2F5vM8iD19sYNPkyHm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.226:443
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@198.41.223.34:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.34:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.94:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.212:443?security=tls&sni=jp.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.212:443
