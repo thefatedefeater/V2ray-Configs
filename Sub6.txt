@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8697
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989#%F0%9F%87%AB%F0%9F%87%B7FR-163.172.64.22-0077
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-8931
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQU9zV1RYd3dsQkZkMkV6MmRHSzJz@13.79.174.197:63314#%F0%9F%87%AE%F0%9F%87%AAIE-13.79.174.197-0549
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjM5MTIxMS1jZTY1LTQ3NTItOGJiYi00MTE1ODFjMDQzNGY=@gdgs.tarioblink.me:30001#%F0%9F%87%A8%F0%9F%87%B3CN-113.31.144.105-1363
