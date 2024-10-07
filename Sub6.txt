@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.90:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.58.123:443?security=tls&sni=pPal03.OSWIn-jErIKA.WOrKERs.dEv&type=ws&host=PPal03.OSWiN-JEriKa.wORKerS.deV&path=%2FXuoEiCbBBa78vRAT%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.123:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.148:443?security=tls&sni=de.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.148:443
 vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@104.17.140.186:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.140.186:2053
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTEyOC1nY206M2E2OTA3MDktNTAxMS00YTZjLWFiNjItZGEyZmI1MjkxMjMz@38.150.12.188:50203#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:50203
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.95:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:6379
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:8009
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@45.89.52.66:9014#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9014
