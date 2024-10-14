@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.200:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.200:2053
 vless://00d0d313-aeb5-465a-a89c-12038fd1b53b@104.26.7.182:443?security=tls&sni=yelojdojdan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fus-full.privateip.net&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.182:443
 vless://26db7bb1-5531-45ce-9aae-12a60730585c@172.67.69.236:2083?security=tls&sni=APkdOwNLoad.MiRAclehEArTbit.iCu&type=httpupgrade&host=APkdOwNLoad.MiRAclehEArTbit.iCu&path=%2F%40V2RayyNGvpn%3Fed%3D128&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.69.236:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.185.103:443?security=tls&sni=pPal03.Molli-mAKara.WOrkers.dEV&type=ws&host=PPaL03.molli-MakARa.WOrKErS.Dev&path=%2FskjckFssi6UMlIeX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.103:443
@@ -602,4 +603,3 @@ vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.236:443?security=tls&sni=ll.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.236:443
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@199.34.228.41:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.41:2096
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@99.83.138.213:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-99.83.138.213:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.106.208:443?security=tls&sni=20Fb0424.bpB-wORKer-PAnEl-1xd.pages.deV&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.106.208:443
