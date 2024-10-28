@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:2053
 vless://ba2b8534-f500-453f-9a33-9c9038f0a40d@104.16.242.124:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.242.124:443
 vless://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.195:2053?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.195:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.131.36:2053?security=tls&sni=bpb-V.PAgEs.DEV&type=ws&host=BPb-v.pAgES.DEV&path=%2F244gToVANcFvVvZJ%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.36:2053
@@ -602,4 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.29:443?security=tls&sni=l
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@154.92.9.1:443?security=tls&sni=sb-1u6.pageS.Dev&type=ws&path=%2Fo56edk55jth9andd%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.1:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.220:2083?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.220:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2053?security=tls&sni=%4da%48d%49s%45r%76e%72-c8w.PaGeS.dEV&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=%4da%48d%69S%45R%56e%52-c8w.paGES.DEV&path=%2FvyvNhfXHnkRJCGfd%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2053
-vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?security=tls&sni=SHAh-9Aq.PAGes.deV&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:443
