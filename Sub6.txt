@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#US36%20286.8KB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8118#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%201.3MB%2Fs
 trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed=8443&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#%E6%9C%AA%E7%9F%A584
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MjVjIUQ3Yypw@150.241.95.62:2949#%E6%9C%AA%E7%9F%A585%2012.7MB%2Fs
