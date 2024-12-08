@@ -3,6 +3,29 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://blue2024@162.159.141.145:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A524
+trojan://blue2024@154.197.64.77:443?sni=ta.promote.icu#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+trojan://NISHIKUITAN111@104.22.57.224:443?#%E6%9C%AA%E7%9F%A525
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%E6%9C%AA%E7%9F%A526%2019.3MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#%E6%9C%AA%E7%9F%A527%201.8MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#US5%2026.4MB%2Fs
+trojan://blue2024@104.129.164.245:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#US6%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#US7%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#US8%201.9MB%2Fs
+trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?security=tls&type=ws&sni=subhiddify.mmdv2.host&path=/Telegram@V2ray_Alpha/?ed=2560&host=subhiddify.mmdv2.host#%E6%9C%AA%E7%9F%A528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#US9%2070.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#TW
+trojan://blue2024@162.159.44.159:443?security=tls&type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A529
+trojan://b8e24ec7-b282-46a9-b1ed-92583b1a5120@yyyyyyyyymahdi1.v2ryng01.ru:8443?security=none&headerType=none&type=tcp#%E6%9C%AA%E7%9F%A530
+trojan://NISHIKUITAN111@104.21.33.65:443?#%E6%9C%AA%E7%9F%A531
+trojan://telegram-id-directvpn@18.199.35.6:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A532
+trojan://bpb-trojan@104.18.107.117:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A533
+trojan://NISHIKUITAN111@104.18.255.98:443?#%E6%9C%AA%E7%9F%A534
+trojan://bpb-trojan@104.27.30.100:443?sni=adagio.us.kg#%E6%9C%AA%E7%9F%A535
+trojan://auto@104.21.69.44:443?security=tls&type=ws&sni=pAges.dEv.&path=/@custom_config?ed=2560&host=deploy-14030911.pages.dev#%E6%9C%AA%E7%9F%A536
+trojan://NISHIKUITAN111@104.18.84.174:443?#%E6%9C%AA%E7%9F%A537
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%E6%9C%AA%E7%9F%A538%20520.7KB%2Fs
 trojan://bpb-trojan@185.174.138.239:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A539
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&host=internet4everieone7.pages.dev#%E6%9C%AA%E7%9F%A540
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#US10%201.9MB%2Fs
