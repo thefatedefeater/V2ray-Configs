@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@172.64.155.187:2095?type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.187:2095
-vless://e0ba3fab-ee37-4426-a738-34e297fb8aeb@188.245.203.136:2096?security=tls&sni=mcc.rayanfmusic.ir&type=ws&host=mcc.rayanfmusic.IR&path=%2Ftelegram-IRov2rayN%2Ctelegram-iroazadi%2CIRov2rayN-iroazadi%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%3Fed%3D2096&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-188.245.203.136:2096
-vless://cdfee595-ccd0-4921-87b4-3683d9f2353d@185.119.240.194:2008?security=none&host=www.speedtest.netTelegram#🔒 VL-TCP-NONE 🇮🇷 IR-185.119.240.194:2008
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.159.247.79:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇧🇷 BR-185.159.247.79:443
-vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@104.21.80.85:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:443
 vless://58bf942a-02ee-5b50-901d-43f86115a0d6@151.101.194.219:80?type=ws&host=ELiV2--ELENA.COM#🔒 VL-WS-NA 🇺🇸 US-151.101.194.219:80
 vless://879ff051-cba1-4208-87e1-00bff3a9a1c7@167.82.103.27:443?security=tls&sni=default.ssl.fastly.net&type=ws&host=mehrjavan.ir&path=%2FTqE6jD0U75tHi0qg6pk11%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-167.82.103.27:443
 vless://525a4932-fae2-fc18-5498-70066d16d533@151.101.192.223:80?security=none&type=ws&host=xn--2b5aaaa.speedtest.net.dribbble.comapi.Ru.&path=%2FFastLy%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.223:80
@@ -603,3 +598,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.4.47:443?security=tls&sni=pp
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?security=none&type=ws&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&path=%2FJoin--HAJIMAMADVPN%3Fed#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.146:80
 vless://e2299b67-9c4f-4ffc-f57f-d352ab678d31@104.18.165.203:80?security=none&type=httpupgrade&host=Mainv2-ray.nigh8movie.COM.&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.165.203:80
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.68.157:443?security=tls&sni=2-gd65fd.hc2021.cfd&type=ws&host=2-gd65fd.hc2021.cfd&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=v2nGfaSt-Jcr.pagEs.Dev&path=%2FiGEuUkpVCbbe4l6w%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.181:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.205.0.5:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇲🇺 MU-45.205.0.5:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.189.130:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇩🇪 DE-159.69.189.130:8080
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.213.136.180:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔒 VL-WS-TLS 🇺🇸 US-129.213.136.180:443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.177:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.177:2083
