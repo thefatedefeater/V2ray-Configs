@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=55208eac587242828bed.voso-ahadi.info&type=ws&host=55208eac587242828bed.voso-ahadi.info&path=%2FVArDAnZws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.28:443
+vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.84.3:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.90.107:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔒 VL-WS-TLS 🇰🇷 KR-144.24.90.107:443
+vless://c4b6ad48-db4a-4348-8e4a-e6a64a863c7d@104.21.7.6:443?security=tls&sni=PpaL03.mOHammAD-sEnGER.WoRKeRS.dev&type=ws&host=PPal03.moHAmMAD-sENGeR.wORKERs.dEV&path=%2F60DQVhzRgjIp-tWO%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.6:443
+vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?sni=falcunargo-telegram.384f2ed785.workers.Dev&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=/&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.195.126:8880
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.205.52.194:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.194:8443
 vless://e617de1c-9e81-42fe-8c63-0f01b1027bcf@199.232.76.82:443?security=tls&sni=TEHRANARGO.io&type=ws&host=TEHRANARGO.io&path=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-%3Fed%3D2560&fp=safari&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.76.82:443
 vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.63:2087?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.63:2087
@@ -598,8 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.97:443?security=tls&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@170.114.46.110:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.110:443
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.219:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.219:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.203:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.203:2083
-vless://6f026cbd-5d4a-4d49-b653-9e02f3c1124d@217.18.90.57:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-217.18.90.57:443
-vless://74d4e982-7660-486e-96ea-a0c9ec2130df@104.18.10.40:443?security=tls&sni=yeby8ye8y8s8ybs8ybs8ybslan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Ffr-full.privateip.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.40:443
-vless://62357561-a129-4b9e-9614-ce2578020866@92.243.74.239:8443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.239:8443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.120.94.65:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.65:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.213.136.180:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔒 VL-WS-TLS 🇺🇸 US-129.213.136.180:443
