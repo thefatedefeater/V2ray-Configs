@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://3bb73c5b-2500-484a-8ee4-68aaca381a6d@naiu-other.05vr9nyqg5.download:13035?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|台湾2|@ripaojiedian
-trojan://QwwHvrnN@36.151.192.198:38698?allowInsecure=1#13,14|日本|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcDEudGlsamtjLnRvcCIsICJwb3J0IjogMzg5NTEsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMTA2Mzk2NC0yYjEzLTM3MmMtOWI0NS0yOGYzNTZlODQ0YWEifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY=@soonjp.soon.guru:40003#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInNnMS50aWxqa2MudG9wIiwgInBvcnQiOiAzNDg0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxMDYzOTY0LTJiMTMtMzcyYy05YjQ1LTI4ZjM1NmU4NDRhYSJ9
