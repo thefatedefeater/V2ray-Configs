@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2d8497b5-23dd-46de-b654-717452302700@151.101.66.187:80?security=none&type=ws&host=htz7h3.moi#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.187:80
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.207:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.207:443
 vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.236:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.236:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80?security=none&type=ws&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.52:80
@@ -602,4 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.129.164.93:443?security=tls&sni
 vless://dc3d8939-1b10-4b0a-bad0-3684eb3159a4@78.110.121.220:2083?security=tls&sni=t10.morgoon.com&type=tcp&host=teleweion.com&path=/&headerType=http&fp=chrome&alpn=http/1.1,h2&allowInsecure=true#🔒 VL-TCP-TLS 🇮🇷 IR-78.110.121.220:2083
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.235:443?security=tls&sni=aba.zhuk.us.kg&type=ws&host=aba.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.235:443
 vless://3a0b4b0a-0c0f-4378-9275-725f1a9d454a@104.26.9.193:443?security=tls&sni=Sauron.Melkore.ir&type=ws&host=Sauron.Melkore.ir&path=%2FUngoliant3%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.193:443
-vless://f0556de9-037d-5369-9352-4b8d2a893263@188.114.97.88:2083?security=tls&sni=florida.xcdl.WOrkers.DEV&type=ws&host=florida.xcdl.WOrkers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048%2B.@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B)&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.88:2083
