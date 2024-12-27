@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?security=tls&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev&type=ws&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.115:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.113.15:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.113.15:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.26.12.140:2087?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.175:443
@@ -602,4 +603,3 @@ vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.63:2087?security=tls&sn
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.212:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.212:443
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@172.67.70.123:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=%2Fdhcfh%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.70.123:8880
 vless://9c4c3633-441c-60d3-50a6-893a7c904f7e@172.67.204.84:2086?security=none&type=splithttp&host=xhttp.fr1.inservices.ir&path=/Devil?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-SPLITHTTP-NONE 🏴‍☠️ NA-172.67.204.84:2086
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@94.242.229.129:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇱🇺 LU-94.242.229.129:443
