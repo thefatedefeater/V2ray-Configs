@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://bpb-trojan@172.67.153.198:2083?security=tls&type=tcp&sni=102.DJr999998.Eu.oRG#%E6%9C%AA%E7%9F%A582
-trojan://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@162.159.129.67:443?security=tls&type=ws&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A583
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1630?security=tls&type=tcp&sni=desource1.game.mzsourcenode.info#%E6%9C%AA%E7%9F%A584
-trojan://blue2024@104.21.66.241:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A585
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%E6%9C%AA%E7%9F%A586%204.2MB%2Fs
 trojan://NISHIKUITAN111@172.67.242.135:443?#%E6%9C%AA%E7%9F%A587
 trojan://NISHIKUITAN111@104.24.71.245:443?#%E6%9C%AA%E7%9F%A588
 trojan://blue2024@104.19.187.2:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A589
