@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.21:8118#US6%201.9MB%2Fs
+trojan://blue2024@104.27.45.137:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A513
+trojan://NISHIKUITAN111@104.27.18.180:443?#%E6%9C%AA%E7%9F%A514
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.225:8090#US7%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:3306#US8%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#US9%201.7MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoiVVMxMCAyNC42TUIvcyIsImFkZCI6IjE0MS4xMS4yNTEuMjMxIiwicG9ydCI6IjUyNzI4IiwiaWQiOiJkNWUxNmI4My03YjVjLTQ1ZWEtZDc0OS1kNmY2YWQyMTQ0NDciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzEwIn0=
 trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.66.228:443?security=tls&type=ws&sni=pscresearch.faculty.ucdavis.edu&path=ws/?ed=2048&host=ihrcxextyuj.com#US11
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.180:8118#US12%201.9MB%2Fs
