@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUxIiwiYWRkIjoiMTgzLjIzNi41MS4zNiIsInBvcnQiOiI1OTAwMyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNTEifQ==
 trojan://telegram-id-directvpn@54.76.127.67:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5152%2028.3MB%2Fs
 trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&type=httpupgrade&sni=wwwd7e1909f3a7e4477.jostar-data.nl&path=/quran/deam_net301.67 GB/?ed=2560&host=d7e1909f3a7e4477.jostar-data.nl#%E6%9C%AA%E7%9F%A5153
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#US40%201.7MB%2Fs
