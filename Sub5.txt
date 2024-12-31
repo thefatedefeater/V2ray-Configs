@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1ffc2033-a289-4bb2-96a1-04b707b19255@104.21.64.1:8880?security=none&type=ws&host=www.speedtest.net.Cafinet-lighter.ir.&path=/@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.1:8880
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@168.138.13.201:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇺 AU-168.138.13.201:443
 vless://98de2525-fa3f-4d4d-adfc-393e1a605dcb@162.159.153.4:8080?sni=4322B5E3-biTteR-DUsT-B2AA.johnsnowhID.WORKERS.dEV&type=ws&host=4322b5e3-bitter-dust-b2aa.johnsnowhid.workers.dev&path=%2FM4dyOvr7OtznwQso%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.4:8080
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.203:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.203:2083
@@ -602,4 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.8.211.214:443?security=tls&sni=v
 vless://eadca33d-9d18-4d65-bc4e-f0e117575b6f@129.153.72.62:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-129.153.72.62:443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.4.2:443
 vless://4c3f503f-1edf-5e23-ab44-b0a0b6637b0b@104.26.15.148:443?security=tls&sni=yf-psv1.keceti9115.WoRkERS.dEV&type=ws&host=yf-psv1.keceti9115.WoRkERS.dEV&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.148:443
-vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.245.82:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.82:443

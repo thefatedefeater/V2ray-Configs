@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.134:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.134:8443
 vless://f0556de9-037d-5369-9352-4b8d2a893263@188.114.96.118:2083?security=tls&sni=florida.xcdl.WOrkers.DEV&type=ws&host=florida.xcdl.WOrkers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048%2B.@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B).@AB_841(@BugFreeNet%2B)&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.118:2083
 vless://19d13bed-b8c5-4443-920e-12f833fed576@172.67.148.116:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.Imgolden.space.&path=%2FTelegram%40AZARBAYJAB1%2CTelegram%40AZARBAYJAB1%2CTelegram%2C%40AZARBAYJB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.116:8080
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@167.68.42.155:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-167.68.42.155:443
@@ -602,4 +603,3 @@ vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.45.10:443?security=tls&sni=v
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.240:443
 vless://9c682edf-7e17-41d6-83e1-d7f6996a9542@104.18.3.57:443?security=tls&sni=vip1.yomato7390.workers.Dev&type=ws&host=vip1.yomato7390.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.3.57:443
 vless://1ffc2033-a289-4bb2-96a1-04b707b19255@104.21.96.1:8880?security=none&type=ws&host=www.speedtest.net.Cafinet-lighter.ir.&path=/@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.1:8880
-vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.120:2053
