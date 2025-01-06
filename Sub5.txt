@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.101:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.101:443
-vless://3a6ea2e7-e181-4595-9812-7faccf4955f6@190.93.244.111:8080?security=none&type=httpupgrade&host=www.speedtest.net.Mact.iR.&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.244.111:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.63.109:443?security=tls&sni=ly.ylka.us.kg&type=ws&host=ly.ylka.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.0.63.109:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.15.24:443?security=tls&sni=ProduCtioN.pPAL03.adhAm-EsSA.workerS.Dev&type=ws&host=PrOdUCtiOn.PPaL03.AdHam-ESSA.wORKeRs.dev&path=%2FLjXdwDKC36EBWgFf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.15.24:443
 vless://dad060e4-bfdc-438e-8400-05c15cfec3ba@173.245.58.100:80?security=none&type=httpupgrade&host=ger1.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:80
@@ -603,3 +601,5 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.144:443?security=tls&sn
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@190.93.247.130:8443?security=tls&sni=eyd.Saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.130:8443
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.16.48.182:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.48.182:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.133.220:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.133.220:8443
+vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.124.198:443
+vless://34622493-c7c7-4e81-9a7d-3f664222efba@188.245.95.151:1517?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1517

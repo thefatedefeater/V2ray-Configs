@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.124.198:443
-vless://34622493-c7c7-4e81-9a7d-3f664222efba@188.245.95.151:1517?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:1517
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.53.188.245:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇮 SI-92.53.188.245:443
 vless://207c70c9-1f04-40bc-87ff-875e279694f3@162.159.153.4:443?security=tls&sni=amazonnetwork.pages.dev&type=ws&host=amazonnetwork.pages.dev&path=%2FgRvnuGH9PrMfmxAn%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.4:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.129.164.93:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-104.129.164.93:443
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060?security=tls&sn
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@217.25.95.175:443?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇵🇱 PL-217.25.95.175:443
 vless://49a7a7b7-655d-4034-9037-da4cb67dd698@104.17.148.22:2087?security=tls&sni=media-content.tp5383.com&type=grpc&serviceName=2087vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2087
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.199:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2Fuxb.vs2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.199:443
+vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@104.21.64.1:2082?security=none&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.1:2082
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@45.144.48.122:443?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇵🇱 PL-45.144.48.122:443
