@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:2086?type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.14.19:2086
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@94.140.0.221:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.221:8443
 vless://47db2974-4a09-49c0-b111-ec24537f2d3b@104.21.80.1:8443?security=tls&sni=peg1.pages.dev&type=ws&host=peg1.pages.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:8443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@63.141.128.201:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.201:443
 vless://87aaaad5-5d93-4b6d-8785-7fdab80bdb2e@104.18.36.237:8080?type=ws&host=vlesss.arthur2020742811.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.36.237:8080
@@ -601,5 +603,3 @@ vless://62357561-a129-4b9e-9614-ce2578020866@121.179.174.25:50000?security=tls&s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.51:443?security=tls&sni=PPAL03.GeBEM58789.wORkERS.DEV&type=ws&host=pPAL03.GeBeM58789.wORkErs.DEv&path=%2FmPr9YicUeRQeCHRj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.51:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@158.180.65.145:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-158.180.65.145:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.109.205.223:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇨🇾 CY-213.109.205.223:8443
-vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@104.21.69.44:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2095
-vless://48808748-082e-4ca5-9d4f-1aed8d40f4cb@172.67.187.156:443?security=tls&sni=fcgerman.nimaempire.cfd&type=httpupgrade&host=fcgerman.nimaempire.cfd&path=%2Fvh2&fp=firefox#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.187.156:443
