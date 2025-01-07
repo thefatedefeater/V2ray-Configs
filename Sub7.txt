@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@104.21.69.44:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2095
 vless://48808748-082e-4ca5-9d4f-1aed8d40f4cb@172.67.187.156:443?security=tls&sni=fcgerman.nimaempire.cfd&type=httpupgrade&host=fcgerman.nimaempire.cfd&path=%2Fvh2&fp=firefox#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.187.156:443
 vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?security=tls&sni=paGES.dEV&type=ws&host=ev2raydev.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.37.213:8443
 vless://ea77ecb6-20b1-418e-e8a6-b7a7086f7dd5@104.19.230.57:2083?security=tls&sni=nKaMHsnG1.zANdDYNAStYOfpErSIA.ORg&type=ws&host=nKaMHsnG1.zANdDYNAStYOfpErSIA.ORg&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:2083
@@ -603,3 +602,4 @@ vless://894e0e6e-d415-47fd-84f5-418896d7a310@104.21.60.152:443?security=tls&sni=
 vless://a96e28a5-6b24-4d38-a372-c7ed42b54212@172.67.163.123:443?security=tls&sni=MIKasA.drAgoNAllEy.ir.&type=ws&host=MIKasA.drAgoNAllEy.ir.&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.123:443
 vless://62357561-a129-4b9e-9614-ce2578020866@27.50.49.234:8443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.234:8443
 vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.16.235.30:443?security=tls&sni=srv12.xyzquant.cloud&type=ws&host=srv12.xyzquant.cloud&path=/6eenmFpORi4fyf8bW&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.235.30:443
+vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?security=tls&sni=androidyt.androidyteuorg.workers.dev&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:2053

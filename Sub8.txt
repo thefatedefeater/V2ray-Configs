@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?security=tls&sni=androidyt.androidyteuorg.workers.dev&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:2053
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@94.176.183.62:443?security=tls&sni=gcore.com&type=ws&host=10.gcr.dns04.com&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇫🇷 FR-94.176.183.62:443
 vless://4fe26c50-ca5b-41fe-b122-d7889636428b@188.114.96.9:443?security=tls&sni=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&type=ws&host=ccnq7x2adkjjmfgfw2lnckrrcx8xnghycqwiclkk7dydukphddkm3eyqlsftrev.30joz74wa.workers.Dev&path=Telegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.9:443
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.89:443
@@ -603,3 +602,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.11:443?security=tls&sni
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@185.188.147.79:443?security=tls&sni=cvl.esslh.filegear-sg.me&type=ws&host=cvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇵🇱 PL-185.188.147.79:443
 vless://bf9dc0d0-91c5-4d33-a45e-d8900bb22957@172.67.1.143:443?security=tls&sni=vpn-ocean29312.cdn-user4.workers.dev&type=ws&host=vpn-ocean29312.cdn-user4.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.1.143:443
 vless://4fdcbf47-c55d-46cf-aa0c-63cc96fd011a@5.202.6.78:2086?type=ws#🔒 VL-WS-NA 🇮🇷 IR-5.202.6.78:2086
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.86:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.86:443
