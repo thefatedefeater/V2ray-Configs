@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%E6%9C%AA%E7%9F%A5135%201.7MB%2Fs
-trojan://blue2024@141.101.114.199:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A5136
-trojan://blue2024@45.159.216.4:443?security=tls&type=tcp&sni=ta.promote.icu#US44
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%E6%9C%AA%E7%9F%A5137%201.7MB%2Fs
-trojan://blue2024@104.21.13.77:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5138
 trojan://SSorg@104.19.57.203:8443?sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A5139
 trojan://blue2024@104.16.110.37:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5140
 trojan://SSorg@63.141.128.66:2087?sni=ssjj.esslh.filegear-sg.me#US45
