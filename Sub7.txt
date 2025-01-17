@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2fe0029f-b118-42a8-a28e-745efab42cad@91.107.135.26:16428?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-91.107.135.26:16428
-vless://8f7de551-d5a9-41d7-8e8e-31c59fdf4985@104.22.12.215:443?security=tls&sni=yelafohfh9f9ufun.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fnl-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.12.215:443
-vless://2fe0029f-b118-42a8-a28e-745efab42cad@91.107.159.114:16428?security=none&type=tcp&host=anten.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.159.114:16428
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.51:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇷🇺 RU-213.241.198.51:443
-vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.100:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2Fuxb.vs2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.100:443
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.178.96:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.101.209.76:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-158.101.209.76:443
@@ -603,3 +598,8 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.232.140.230:8443?security=tls&sn
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.51:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.51:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.70:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.70:2053
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.10.143:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.143:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.13.181:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.181:80
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.56:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.56:443
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.195.244:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.244:443
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.18:2083?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-154.211.8.18:2083
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.102:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.102:443

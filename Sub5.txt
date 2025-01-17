@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://6d62f776-5985-4d5f-8799-9f95c5e375cd@104.17.97.5:80?security=none&type=ws&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.5:80
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.5:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.5:443
-vless://9c2f729f-d211-4eec-8587-7167a5888d02@104.19.245.135:8443?security=tls&sni=mg1.haibucuo.xyz&type=ws&host=mg1.haibucuo.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.245.135:8443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.1.108:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2FTELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.108:443
-vless://d872a387-b8e9-4e94-ba95-df5ce7aca552@140.248.189.52:443?security=tls&sni=Channel.E-L-i-V-2-R-A-Y.io&type=ws&host=Channel.E-L-i-V-2-R-A-Y.io&fp=qq#🔒 VL-WS-TLS 🇺🇸 US-140.248.189.52:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.25.232.233:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.232.233:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.116.161.133:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.133:443
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@104.19.57.183:2096?security=tls&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.57.183:2096
@@ -603,3 +598,8 @@ vless://a625cee0-3231-4a09-9385-e88bbcc348c2@104.19.4.141:443?security=tls&sni=5
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.27.189:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.189:80
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.17.30.230:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.30.230:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.3:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.3:443
+vless://7976f348-21e3-4688-8272-b8df34afc600@104.18.15.19:80?security=none&type=ws&host=0115.ubsrbac7.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
+vless://62357561-a129-4b9e-9614-ce2578020866@27.50.49.37:2053?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.37:2053
+vless://55520747-311e-4015-83ce-be46e2060ce3@194.76.18.103:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.103:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@198.41.218.230:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.218.230:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@104.24.254.222:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.254.222:443
